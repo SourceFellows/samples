@@ -2,6 +2,8 @@
 
 Dieses Repo enthält Codebeispiele für die Seite https://www.source-fellows.com.
 
+* [Testen von Golang Anwendungen mit Mocks](https://www.source-fellows.com/golang-testen-mit-mocks/) zum [Quellcode](./mocktest)
+  * *In diesem Artikel wird gomock, ein Mock-Framework für Go/Golang Anwendungen, vorgestellt und an einem Beispiel sein Einsatz aufgezeigt.*
 * [Datenbankzugriffe mit Go](https://www.source-fellows.com/artikel/golang-datenbankzugriffe-sql/) zum [Quellcode](./db)
   * *Der Artikel zeigt wie mit Go ein Datenbankzugriff realisiert werden kann.*
 * [GORM ein OR-Mapper(ORM) für Golang](https://www.source-fellows.com/artikel/go-datenbank-orm/) zum [Quellcode](./gorm)
