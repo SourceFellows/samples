@@ -2,6 +2,8 @@
 
 Dieses Repo enthält Codebeispiele für die Seite https://www.source-fellows.com.
 
+* [Golang Anwendungen Debuggen](https://www.source-fellows.com/golang-debugging/) zum [Quellcode](./delve-debugging)
+  * *Mit einem Debugger lassen sich in Go-Anwendungen Fehler aufspüren. Der Artikel zeigt Debugging (auch Docker-Container) mit IntelliJ/Goland und VSCode.*
 * [Testen von Golang Anwendungen mit Mocks](https://www.source-fellows.com/golang-testen-mit-mocks/) zum [Quellcode](./mocktest)
   * *In diesem Artikel wird gomock, ein Mock-Framework für Go/Golang Anwendungen, vorgestellt und an einem Beispiel sein Einsatz aufgezeigt.*
 * [Datenbankzugriffe mit Go](https://www.source-fellows.com/artikel/golang-datenbankzugriffe-sql/) zum [Quellcode](./db)
